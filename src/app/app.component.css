@@ -1,0 +1,11 @@
+.middle{
+    max-width: 400px;
+    margin-left: 40%;
+    margin-top: 10%;
+    min-height: 100px;
+    background-color: aqua;
+}
+.password{
+    margin-left: 20%;
+    margin-bottom: 60%;
+}
